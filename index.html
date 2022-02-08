@@ -6,29 +6,47 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Личный сайт туалетной бумаги</title>
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Open+Sans&display=swap" rel="stylesheet">
 	<link rel="stylesheet" href="style.css">
+	<script src="https://kit.fontawesome.com/ec18d55963.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
 	<div class="wrapper">
-		<header>Личный сайт туалетной бумаги</header>
-		<aside>Sidebar</aside>
-		<article class="content">
-			<h1>2 column, header and footer</h1>
-			<p>This example uses line-based positioning, to position the header and footer, stretching them across the
-				grid.</p>
+		<header>
+			<div class="wrapper-logo">
+				<i class="fas fa-toilet-paper fa-2x"></i>
+			</div>
+			<div class="wrapper-text">
+				Интернет-магазин туалетной бумаги <q>То понос, то золотуха</q>
+			</div>
+		</header>
+		<div class="content">
+			<h1>Продаваемые товары</h1>
+			<p>В данном блоке Вы можете ознакомиться
+				с ассортиментом нашего интернет-магазина</p>
 			<div class="other-gird-content">
 				<div class="block">
-					<h3>Title</h3>
-					<p>Text on first block</p>
+					<h4>Лот №1. Бюджетная туалетная бумага Bomj</h4>
+					<i class="fas fa-toilet-paper fa-2x fa-rotate-270"></i>
+					<p>10 &#8381; / рулон</p>
+					<a type="button" class="buy-btn">Купить</a>
 				</div>
 				<div class="block">
-					<h3>Title</h3>
-					<p>Text on second block</p>
+					<h4>Лот №2. Элитная туалетная бумага Elitnaya</h4>
+					<i class="fas fa-toilet-paper fa-2x fa-rotate-270"></i>
+					<p>1000 &#8381; / рулон</p>
+					<a type="button" class="buy-btn">Купить</a>
 				</div>
 			</div>
-		</article>
-		<footer class="footer">My footer</footer>
+		</div>
+		<footer class="footer">
+			2022 &copy;
+			ООО <q>То понос, то золотуха</q>.
+			Все права защищены
+		</footer>
 	</div>
 </body>
 
