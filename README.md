@@ -5,7 +5,7 @@
 
 - 🌱 Сейчас я изучаю **вёрстку, HTML, CSS, JS**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Мой CodePen:</h3>
 <p align="left">
 <a href="https://codepen.io/old_qqw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="old_qqw" height="30" width="40" /></a>
 </p>
