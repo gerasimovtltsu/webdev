@@ -25,5 +25,5 @@
 
 Projects: 
 
-Shelter - [https://oldqqw.github.io/rsschool-cv/shelter/pages/main/index.html]
+Shelter - [https://oldqqw.github.io/rsschool-cv/shelter/pages/main/index.html] <br/>
 Walking dead fan page - [https://oldqqw.github.io/webdev/Walking%20Dead/]
