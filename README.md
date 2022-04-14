@@ -22,3 +22,7 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=oldqqw&show_icons=true&locale=en&layout=compact" alt="oldqqw" /></p>
+
+Projects: 
+
+Shelter - [https://oldqqw.github.io/rsschool-cv/shelter/pages/main/index.html]
