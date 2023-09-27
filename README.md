@@ -16,4 +16,4 @@
 Projects: 
 
 Shelter - [https://rolling-scopes-school.github.io/oldqqw-JSFE2022Q1/shelter/pages/index.html] <br/>
-Walking dead fan page - [https://oldqqw.github.io/webdev/Walking%20Dead/]
+Walking dead fan page - [https://gerasimovtltsu.github.io/webdev/Walking%20Dead/]
